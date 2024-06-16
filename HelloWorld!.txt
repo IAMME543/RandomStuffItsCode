@@ -7,29 +7,37 @@
     #inculde <stdio.h>
     int main() {
         printf("Hello World!");
+        return 0;
     }
 
 # C++
     #include <iostream>
     int main() {
         std::cout << "Hello World!";
+        reuturn 0;
     }
 
 # C# Unity
-    #include UnityEngine
-    void start() {
-        print("Hello, World!);
+    using UnityEngine;
+
+    public class HelloWorld : MonoBehaviour
+    {
+        void Start() {
+            Debug.Log("Hello, World!");
+        }
     }
 
 # Javascript & Typescript
     console.log("Hello World!")
 
 # GdScript
-    print("Hello World!");
+    func ready():
+        print("Hello World!")
 
 # Dart
     print("Hello World!");
 
 # Bend
-    def main   
+    def main {
         return "Hello World!"
+    }
