@@ -1,6 +1,6 @@
 # Hello world in every language i know at least as much of to write hello world
 
-# ython
+# Python
     print("Hello World!")
 
 # C
