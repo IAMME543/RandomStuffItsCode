@@ -1,0 +1,35 @@
+# Hello world in every language i know at least as much of to write hello world
+
+# ython
+    print("Hello World!")
+
+# C
+    #inculde <stdio.h>
+    int main() {
+        printf("Hello World!");
+    }
+
+# C++
+    #include <iostream>
+    int main() {
+        std::cout << "Hello World!";
+    }
+
+# C# Unity
+    #include UnityEngine
+    void start() {
+        print("Hello, World!);
+    }
+
+# Javascript & Typescript
+    console.log("Hello World!")
+
+# GdScript
+    print("Hello World!");
+
+# Dart
+    print("Hello World!");
+
+# Bend
+    def main   
+        return "Hello World!"
