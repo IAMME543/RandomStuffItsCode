@@ -2,9 +2,6 @@
 
 int main()
 {
-
-    while (1)
-    {
         // Variables
         char operation;
         float a;
@@ -39,6 +36,6 @@ int main()
         default:
             printf("Was That a valid operation?\n");
             break;
+        scanf("");
         }
     }
-}
