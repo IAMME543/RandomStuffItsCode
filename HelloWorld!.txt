@@ -41,3 +41,11 @@
     def main {
         return "Hello World!"
     }
+
+# Golang
+    package main
+    import "fmt"
+
+    func main() {
+        fmt.println("Hello World!")
+    }
