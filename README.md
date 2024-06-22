@@ -2,8 +2,8 @@
 
 ## table of contents
 
--[Introduction](#introduction)
--[What to use for](#what-to-use-for)
+- [Introduction](#introduction)
+- [What to use for](#what-to-use-for)
 
 
 
