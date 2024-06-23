@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 func main() {
+
+	//variables
 	var operation string
 	var numA float32
 	var numB float32
