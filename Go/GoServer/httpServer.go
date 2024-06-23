@@ -1,5 +1,7 @@
 package main
 
+//Warning, do not use this, as it has major security vunerabilities that i do not know how to fix
+
 import (
 	"fmt"
 	"net/http"
